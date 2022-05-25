@@ -1,6 +1,8 @@
 # dad-website
 
 Created a simple, static website for my dad's side business as a life coach!
+
+Check it out here:
 [www.lifecoach-eb.com](https://www.lifecoach-eb.com)
 
 Features:
